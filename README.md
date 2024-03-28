@@ -1,0 +1,1 @@
+This repo is incomplete; several parts from when I was just getting started are not documented; I had no clue how things worked that day, so I simply messed about; I remember having no idea how to stage it at all.
